@@ -1,0 +1,15 @@
+C:\source\codeworks\cSharpRps\bin\Debug\net6.0\cSharpRps.exe
+C:\source\codeworks\cSharpRps\bin\Debug\net6.0\cSharpRps.deps.json
+C:\source\codeworks\cSharpRps\bin\Debug\net6.0\cSharpRps.runtimeconfig.json
+C:\source\codeworks\cSharpRps\bin\Debug\net6.0\cSharpRps.dll
+C:\source\codeworks\cSharpRps\bin\Debug\net6.0\ref\cSharpRps.dll
+C:\source\codeworks\cSharpRps\bin\Debug\net6.0\cSharpRps.pdb
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.csproj.AssemblyReference.cache
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.GeneratedMSBuildEditorConfig.editorconfig
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.AssemblyInfoInputs.cache
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.AssemblyInfo.cs
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.csproj.CoreCompileInputs.cache
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.dll
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\ref\cSharpRps.dll
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.pdb
+C:\source\codeworks\cSharpRps\obj\Debug\net6.0\cSharpRps.genruntimeconfig.cache
